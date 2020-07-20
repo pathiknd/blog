@@ -69,7 +69,7 @@ To support the modularity of option (b), a platform needs to have at least the f
 
 Let’s compare Java and .Net on these parameters
 
-![Alt Text](images/modularity-comparision-matrix.png)
+![Alt Text](images/modularity-comparision-matrix.PNG)
 
 **The package structure at runtime is used to locate .class files. JVM would look for exact same directory structure as the package name e.g. all types under “com.covidservice.api.service” should be found under “com/covidservice/api/service” on the Classpath JARs. So a package is not really treated as a dependency by JVM. JVM searches for .Class file when it has to create a new Class or Instance — this is different from how dependencies are managed in Java 9 and .Net.*
 
