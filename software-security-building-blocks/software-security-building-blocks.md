@@ -43,11 +43,11 @@ X.509 certificates are used to associate a public key to the entity that owns it
 
 Clicking on padlock in any browser shows the X.509 certificate associated with the domain. It has public key and many other information.
 
-![X.509 in chrome](images/x509-cert.png)
+![X.509 in chrome](images/x509-cert.PNG)
 
 Certificates are issued by Certificate Authorities (CA) who are trusted by browsers. In Chrome, Go to Settings > Privacy and Security > More > Manage Certificates, to see root and intermediate CAs trusted by the browser.
 
-![Trusted Roots](images/x509-cert-roots.png)
+![Trusted Roots](images/x509-cert-roots.PNG)
 
 # Digital Signatures
 
