@@ -9,3 +9,5 @@
 [Generics Implementation of Java and C#](generics-impl-java-csharp/generics-impl-java-csharp.md)
 
 [Exception Handling in Different Types of Applications](exception-handling-apptype/exception-handling-apptype.md)
+
+[Application Configuration from Operations Viewpoint](config-ops-viewpoint/config-ops-viewpoint.md)
