@@ -1,4 +1,4 @@
-# Difference between Platform and Framework
+# Difference between a Platform and a Framework
 
 ## What is Platform? 
 

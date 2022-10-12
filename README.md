@@ -13,3 +13,5 @@
 [Application Configuration from Operations Viewpoint](config-ops-viewpoint/config-ops-viewpoint.md)
 
 [Software Architecture Basics: What, How & Why](software-arch-overview/software-arch-overview.md)
+
+[Difference between a Platform and a Framework](platform-vs-framework/platform-vs-framework.md)
