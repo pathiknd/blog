@@ -14,4 +14,6 @@
 
 [Software Architecture Basics: What, How & Why](software-arch-overview/software-arch-overview.md)
 
+[Software Architecture Basics: From Developer to Software Architect](software-arch-overview/software-arch-overview.md)
+
 [Difference between a Platform and a Framework](platform-vs-framework/platform-vs-framework.md)
