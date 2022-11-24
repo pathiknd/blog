@@ -17,3 +17,5 @@
 [Software Architecture Basics: From Developer to Software Architect](software-arch-role-journey/software-arch-role-journey.md)
 
 [Difference between a Platform and a Framework](platform-vs-framework/platform-vs-framework.md)
+
+[Importance and Method of Naming in Software Engineering](imp-of-naming/imp-of-naming.md)
